@@ -1,8 +1,8 @@
 ### About Me
--🎓 Third-year student at Tel Aviv University, studying Electrical Engineering and Computer Science.
--💻 Languages in my toolkit: C, C#, Java, Python, JS, CSS, HTML, Swift - I love the art of coding and the endless possibilities it brings.
--📚 In my free time, I immerse myself in dystopian worlds through books, movies, and TV shows. Always exploring the intersection of technology and storytelling.
--📫 How to reach me: ronmondshein@mail.tau.ac.il
+🎓 Third-year student at Tel Aviv University, studying Electrical Engineering and Computer Science.
+💻 Languages in my toolkit: C, C#, Java, Python, JS, CSS, HTML, Swift - I love the art of coding and the endless possibilities it brings.
+📚 In my free time, I immerse myself in dystopian worlds through books, movies, and TV shows. Always exploring the intersection of technology and storytelling.
+📫 How to reach me: ronmondshein@mail.tau.ac.il
 
 
 
