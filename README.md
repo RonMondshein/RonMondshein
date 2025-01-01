@@ -1,5 +1,5 @@
 ### About Me
-🎓 Third-year Electrical Engineering and Computer Science student at Tel Aviv University.
+🎓 Fourth-year Electrical Engineering and Computer Science student at Tel Aviv University.
 
 💻 Languages in my toolkit: C, C#, Java, Python, JS, CSS, HTML, Swift.
 
